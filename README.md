@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aleksei 👋
 
-<!--
-**ashumnik/ashumnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a Master's degree in Software Engineering and over 5 years of experience in system-level development.
 
-Here are some ideas to get you started:
+Specialized in:
+- ⚙️ C/C++, Linux, multithreading, asynchronous programming  
+- 🌐 Network protocols, TCP/IP, VPN, low-level socket programming  
+- 🧠 System architecture, performance optimization, and debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on embedded systems, routing software, and security-focused products, often in international, distributed teams.
+
+I care about clean code, thoughtful design, and solving real-world problems through engineering.  
+
+Currently: exploring machine learning, distributed systems, and everything between software and hardware. 🚀
+
+Always open to meaningful collaboration. 🤝
